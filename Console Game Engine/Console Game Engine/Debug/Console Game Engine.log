@@ -1,5 +1,0 @@
-﻿  Console Game Engine.cpp
-c:\users\okole\source\repos\console game engine\console game engine\console game engine.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\okole\source\repos\console game engine\console game engine\console game engine.cpp(136): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\okole\source\repos\console game engine\console game engine\console game engine.cpp(144): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  Console Game Engine.vcxproj -> C:\Users\okole\source\repos\Console Game Engine\Debug\Console Game Engine.exe
